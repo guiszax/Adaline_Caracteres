@@ -1,14 +1,17 @@
 # Reconhecimento de Caracteres com Adaline
 
-Projeto da disciplina de Redes Neurais Artificiais — IFB  
-Guilherme Souza e Pedro Neto
+Projeto da disciplina de Introdução à Inteligencia Artificial, ministrada pelo Prof. Fábio Oliveira
+
+Instituto Federal de Brasília (IFB)
+
+Alunos: Guilherme Souza e Pedro Neto
 
 ---
 
 ## Como rodar no VS Code
 
 ### 1. Pré-requisitos
-- Python 3.11 ou 3.12 instalado
+- Possuir a ultimo versão instalada do Python
 - VS Code com extensão **Python** (Microsoft)
 
 ### 2. Abrir o projeto
@@ -74,9 +77,6 @@ adaline_caracteres/
 ## Fontes utilizadas
 - Arial (`arial.ttf`)
 - Times New Roman (`times.ttf`)
-
-> **Windows:** essas fontes já estão instaladas no sistema.  
-> **Linux/Mac:** instale com `sudo apt install ttf-mscorefonts-installer` ou copie os .ttf para a pasta do projeto.
 
 ---
 
